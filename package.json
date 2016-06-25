@@ -2,7 +2,7 @@
   "name": "fullcube-logger",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/fullcube/fullcube-logger/issues"
   },
-  "homepage": "https://github.com/fullcube/fullcube-logger#readme"
+  "homepage": "https://github.com/fullcube/fullcube-logger#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "bunyan-prettystream": "^0.1.3",
+    "le_node": "^1.3.1"
+  }
 }
