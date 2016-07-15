@@ -1,5 +1,5 @@
 {
-  "name": "fullcube-logger",
+  "name": "@fullcube/fullcube-logger",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
